@@ -2,8 +2,8 @@
 
 <p></p>
 
-<img src="/image/main_page.png" width="90%" alt="main page"/>
-<img src="/image/new_point.png" width="90%" alt="new point"/>
-<img src="/image/search_point.png" width="90%" alt="search point"/>
-<img src="/image/points.png" width="90%" alt="points"/>
+<img src="/image-readme/main_page.png" width="90%" alt="main page"/>
+<img src="/image-readme/new_point.png" width="90%" alt="new point"/>
+<img src="/image-readme/search_point.png" width="90%" alt="search point"/>
+<img src="/image-readme/points.png" width="90%" alt="points"/>
 
