@@ -1,9 +1,9 @@
 <h1 align="center">Ecoleta | first nlw project </h1>
 
 <h2 align="center">About 📖</h2>
-<p>This project was developed for the first edition of rocketseat's nlw (NEXT LEVEL WEEK)</p>
-<p>Ecoleta is a marketplace for recycling points</p>
-<p>You can register a new point and search for points in your region</p>
+<p align="center">This project was developed for the first edition of rocketseat's nlw (NEXT LEVEL WEEK)</p>
+<p align="center">Ecoleta is a marketplace for recycling points</p>
+<p align="center">You can register a new point and search for points in your region</p>
 
 <h2 align="center">Preview 💻</h2>
 <img src="/image-readme/main_page.png" width="90%" alt="main page"/>
